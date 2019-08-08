@@ -1,6 +1,6 @@
 <template>
 	<div>
-		这是会员
+		这是
 	</div>
 </template>
 
@@ -10,6 +10,5 @@
 	}
 </script>
 
-<style scoped="scoped">
-	
+<style>
 </style>

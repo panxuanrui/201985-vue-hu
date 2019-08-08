@@ -1,6 +1,6 @@
 <template>
   <div class="app">
-	 <mt-header fixed title="固定在顶部"></mt-header>
+	 <mt-header fixed title="七夕节不快乐"></mt-header>
 	 <transition>
 	 	<router-view></router-view>
 	 </transition>
@@ -36,6 +36,7 @@ export default {
 	.app{
 		padding-top:40px ;
 		overflow-x: hidden;
+		padding-bottom:50px
 	}
 	.app a{
 		-webkit-tap-highlight-color: transparent;
